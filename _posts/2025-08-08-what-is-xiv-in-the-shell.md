@@ -21,7 +21,8 @@ media_subpath: /assets/01_what_is_xiv_in_the_shell/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That’s it! Most high-end raids in FFXIV have very predictable timelines, and the mechanics of each fight force players to react differently to maintain a coherent rotation. Melees may need to disengage, casters may need to save resources for extended movement, and parties may adjust buff window timings in unconventional ways. Our tool lets you compare a DPS timeline against a fight’s mechanic timeline and party buff windows, and makes precise planning accessible in a way that traditional spreadsheet-based tools do not.
 
-![A screenshot of XIV in the Shell, with fight markers for FRU and opener sequences for BLM, NIN, MNK, and PCT](en_overview.png)
+![A screenshot of XIV in the Shell, with fight markers for FRU and opener sequences for BLM, NIN, MNK, and PCT](overview_light.png){: .light}
+![A screenshot of XIV in the Shell, with fight markers for FRU and opener sequences for BLM, NIN, MNK, and PCT](overview_dark.png){: .dark}
 _Some example XIV in the Shell timelines._
 
 ### Followup question: who is XIV in the Shell?
@@ -65,13 +66,15 @@ _“Your feeble flame must be snuffed out!”_
 
 _Example:_ Pictomancers can perform an advanced technique known as “magenta skip,” trading a small amount of up-front potency by allowing the Aetherhues buff to expire to increase gauge generation over the course of a fight. XIV in the Shell lets PCTs visualize what spells to cast while waiting for the buff to expire, how those resources align with movement requirements, and whether this extra gauge results in a DPS gain over the course of the fight.
 
-![A sequence of PCT spells.](magenta_skip.png)
+![A sequence of PCT spells.](magenta_skip_light.png){: .light}
+![A sequence of PCT spells.](magenta_skip_dark.png){: .dark}
 _An example Magenta skip in M5S (definitely not optimal, don’t try this at home)_
 
 #### Fitting abilities under a buff window
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can use XIV in the Shell visualize how spells fit under party buff and tincture windows, and how they affect potencies.
 
-![A damage table and timeline of a SAM opener.](sam_opener.png)
+![A damage table and timeline of a SAM opener.](sam_opener_light.png){: .light}
+![A damage table and timeline of a SAM opener.](sam_opener_dark.png){: .dark}
 _Potency report for a standard Samurai opener with slightly staggered buff timings._
 
 #### Checking cooldown usage in a fight with downtime
@@ -79,7 +82,8 @@ _Potency report for a standard Samurai opener with slightly staggered buff timin
 
 _Example:_ Red Mage’s Manafication is on a 110 second cooldown, but requires additional time to complete a melee combo to gain full value. In M7S, a fight with frequent downtime and periods where the RDM is often forced to disengage, XIV in the Shell shows how tight completing the full melee combo sequence is for a strict rush of the ability.
 
-![A timeline with RDM's Manafication and melee combos performed strictly on cooldown.](m7s_manafic.png)
+![A timeline with RDM's Manafication and melee combos performed strictly on cooldown.](m7s_manafic_light.png){: .light}
+![A timeline with RDM's Manafication and melee combos performed strictly on cooldown.](m7s_manafic_dark.png){: .dark}
 _Barely completing a melee combo from Manafication before the transition to phase 3 of M7S (disclaimer: just an example, not optimal play)._
 
 
