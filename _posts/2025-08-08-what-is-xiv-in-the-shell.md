@@ -1,6 +1,6 @@
 ---
 title: What is XIV in the Shell?
-date: 2025-08-01 21:13 -0700
+date: 2025-08-08 18:00 -0700
 author: shanzhe
 media_subpath: /assets/01_what_is_xiv_in_the_shell/
 ---
