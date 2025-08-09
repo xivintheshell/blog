@@ -42,7 +42,7 @@ _Some example XIV in the Shell timelines._
 
 ### A Brief History
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Historically, the most prominent tools for rotation planning have been spreadsheet-based. They’re serviceable, flexible, and quite powerful, but are quite cumbersome to use. In Endwalker, miyehn (Ellyn Waterford @ Sargatanas) and UkitaEshiya (Galahad Donnadieu @ Exodus) put together _Black Mage in the Shell_ as essentially a weekend project to support BLM optimization. It spread throughout the BLM community, and by the time I [shanzhe] started raiding in late 6.2, was already quite a mature tool.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Historically, the most prominent tools for rotation planning have been spreadsheet-based. They’re serviceable, flexible, and quite powerful, but are quite cumbersome to use. In Endwalker, miyehn (Ellyn Waterford @ Sargatanas) and UkitaEshiya (Galahad Donnadieu @ Exodus) put together _Black Mage in the Shell_ as essentially a weekend project to support BLM optimization. It spread throughout the BLM community, and by the time I started raiding in late 6.2, was already quite a mature tool.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personally, BLM in the Shell’s existence is a large part of why I mained the job throughout Endwalker. By the time I dug my first clear of P8S out of the PF mines in week 31 (the literal day before the tier unlocked!) I had a full GCD-precise plan for phase two of the fight, modified from one that a caster player friend had sent me.
 
